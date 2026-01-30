@@ -33,45 +33,81 @@ Showcasing:
 
 
 frontend/
+
 ├── public/
+
 ├── src/
+
 │   ├── assets/
+
 │   │   ├── images/
+
 │   │   └── models/
+
 │   │       └── source/
+
 │   │           ├── coco-cola.glb
+
 │   │           └── texture.png
+
 │   │
+
 │   ├── components/
+
 │   │   ├── agence/
+
 │   │   │   ├── Agencyexplanation.jsx
+
 │   │   │   └── Herosection.jsx
+
 │   │   │
 │   │   ├── home/
+
 │   │   │   ├── HeroTop.jsx
+
 │   │   │   ├── HeroBottom.jsx
+
 │   │   │   └── VideoFile.jsx
+
 │   │   │
 │   │   └── project/
+
 │   │       ├── card.jsx
+
 │   │       ├── datacard.jsx
+
 │   │       └── Model.jsx
+
 │   │
 │   ├── pages/
+
 │   │   ├── Home.jsx
+
 │   │   ├── Agence.jsx
+
 │   │   └── Project.jsx
+
 │   │
 │   ├── App.jsx
+
 │   ├── main.jsx
+
 │   ├── App.css
+
 │   └── index.css
+
 ├── index.html
+
 ├── .gitignore
+
 ├── package.json
+
 ├── vite.config.js
+
 ├── tailwind.config.js
+
 ├── eslint.config.js
+
 └── README.md
 
 
@@ -135,6 +171,7 @@ screenshorts:-
 
 
 <img width="1881" height="886" alt="image" src="https://github.com/user-attachments/assets/40eabdaf-96d5-490b-be3a-75b0402a0e39" />
+
 
 <img width="1904" height="875" alt="image" src="https://github.com/user-attachments/assets/c9db2007-e069-49d7-a820-6f3ee1fcbe65" />
 
